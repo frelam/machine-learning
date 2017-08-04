@@ -1,4 +1,4 @@
-///////675675
+///////67567/////5
 #include <ctime>
 #include <cstdlib>
 #include "./include/perceptron.hpp"
